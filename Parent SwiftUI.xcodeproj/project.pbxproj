@@ -39,6 +39,7 @@
 		EB4BE46D29F681630038644A /* IndividualMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4BE46C29F681630038644A /* IndividualMessageView.swift */; };
 		EB4BE47029F684AD0038644A /* MessageImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4BE46F29F684AD0038644A /* MessageImagePicker.swift */; };
 		EB4BE47229F684BE0038644A /* MessageDocumentPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4BE47129F684BE0038644A /* MessageDocumentPicker.swift */; };
+		EB52DA492B1DC7B8007CEBB7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EB52DA482B1DC7B8007CEBB7 /* .gitignore */; };
 		EB5A76A02A1DF3D400286CB1 /* FaceIdViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB5A769F2A1DF3D400286CB1 /* FaceIdViewModel.swift */; };
 		EB6411A92AAEECCF007F5649 /* EduSocialPosts.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB6411A82AAEECCF007F5649 /* EduSocialPosts.swift */; };
 		EB6411AC2AAEEEBF007F5649 /* IndividualEduSocialPostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB6411AB2AAEEEBF007F5649 /* IndividualEduSocialPostView.swift */; };
@@ -243,6 +244,7 @@
 		EB4BE46C29F681630038644A /* IndividualMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndividualMessageView.swift; sourceTree = "<group>"; };
 		EB4BE46F29F684AD0038644A /* MessageImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageImagePicker.swift; sourceTree = "<group>"; };
 		EB4BE47129F684BE0038644A /* MessageDocumentPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageDocumentPicker.swift; sourceTree = "<group>"; };
+		EB52DA482B1DC7B8007CEBB7 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = .git/.gitignore; sourceTree = "<group>"; };
 		EB5A769F2A1DF3D400286CB1 /* FaceIdViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceIdViewModel.swift; sourceTree = "<group>"; };
 		EB6411A82AAEECCF007F5649 /* EduSocialPosts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EduSocialPosts.swift; sourceTree = "<group>"; };
 		EB6411AB2AAEEEBF007F5649 /* IndividualEduSocialPostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndividualEduSocialPostView.swift; sourceTree = "<group>"; };
@@ -930,6 +932,7 @@
 		EBEB7CB329DEBB4A00558BB6 = {
 			isa = PBXGroup;
 			children = (
+				EB52DA482B1DC7B8007CEBB7 /* .gitignore */,
 				EBEB7CBE29DEBB4A00558BB6 /* Parent SwiftUI */,
 				EBD0BD9029E5310D00BAE0DF /* OneSignalNotificationServiceExtension */,
 				EBEB7CBD29DEBB4A00558BB6 /* Products */,
@@ -1076,6 +1079,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBEB7CC829DEBB4B00558BB6 /* Preview Assets.xcassets in Resources */,
+				EB52DA492B1DC7B8007CEBB7 /* .gitignore in Resources */,
 				EBEB7CC429DEBB4B00558BB6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
